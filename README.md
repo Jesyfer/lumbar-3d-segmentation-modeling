@@ -2,7 +2,7 @@
 
 ### Folders Description
 📁 3d-assets: Contains all 3D content, including models with embedded textures, rigged models, and baked animations at 60 FPS for Unreal Engine.  
-- 📁 Models: Raw 3D models organized by segment identifiers (MIDRC, s0011, s0024).  
+- 📁 Models: Optimized 3D models with embedded textures, organized by segment identifiers (MIDRC, s0011, s0024).  
 - 📁 Rigs: Rigged versions of the models ready for animation workflows.  
 - 📁 Animations: Baked animations corresponding to each rigged model.  
 
