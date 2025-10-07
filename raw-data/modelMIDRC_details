@@ -1,0 +1,33 @@
+# 3D Model Summary - MIDRC
+
+## Identification
+- **Case ID:** 10000364-6553460  
+- **Object ID:** dg.MD1R/6052a7a3-e477-48a2-9119-efe296bd68dc  
+- **Project:** Open-A1  
+- **Data format:** DICOM  
+- **Data category:** CT  
+
+## Patient
+- **Sex:** Male  
+- **Age:** 54 years  
+- **Race:** Black or African American  
+
+## Imaging Study
+- **Modality:** CT  
+- **Series description:** PV 1.25  
+- **Study description:** CT Chest, Abdomen & Pelvis W Contrast  
+- **Number of images:** 529  
+- **Scanner:** GE MEDICAL SYSTEMS, Revolution CT  
+
+## COVID-19 Status
+- **Positive:** Yes  
+- **Days to positive test:** +30  
+- **Days to negative test:** +274  
+
+## LOINC
+- **Code:** 72254-6  
+- **Name:** CT Chest and Abdomen and Pelvis W contrast IV  
+
+## Additional
+- **Official citation:** 2024: ACR_20211115  
+- **File verification (MD5):** d4a65917d5b585aca6e55c4061c8c1f2
