@@ -10,6 +10,8 @@
 
 📁 media: Contains video materials related to the project.
 
+See [DATASETS.md](DATASETS.md) for dataset provenance and access details (CT sources, identifiers, licenses, and segmentation tools used).
+
 ## Notes
 - Assets are structured to facilitate version control and clear organization.  
 - Animations are baked at 60 FPS for Unreal Engine compatibility.  
